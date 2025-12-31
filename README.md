@@ -1,7 +1,6 @@
 # awesome-tls-fingerprinting
 
-## [Joy](https://github.com/cisco/joy)
+## Cisco
 
-### fingerprint_db.csv
+- Reversed TLS fingerprints from open-source tools on their [Github repository](https://github.com/cisco)
 
-- Converted CSV of extracted [fingerprint_db.json.gz](https://github.com/cisco/joy/blob/master/fingerprinting/resources/fingerprint_db.json.gz)
